@@ -1,7 +1,7 @@
 
 # Spring Cloud Gateway
 
-In this project, I'll work on how to configure an API gateway to route traffic to your microservices architecture and implement solutions to improve the resilience 
+In this project, I'll work on how to configure an API gateway to route traffic to our microservices architecture and implement solutions to improve the resilience 
 of your system with patterns like circuit breakers, retries, fallbacks, and rate limiters using Spring Cloud Circuit Breaker and Resilience4J. 
 Since the gateway is the entry point of your system, it’s also an excellent candidate to implement security concerns like user authentication. 
 I'll work on how to do that with Spring Security, OAuth2, and OpenID Connect, relying on Spring Redis Reactive to manage sessions. 
